@@ -7,6 +7,11 @@ https://web.stanford.edu/class/cs224w/info.html
 ''Complex domains have a rich relational structure, which can be represented as a relational graph.   
 By explicitly modeling relationships we achieve better performance! Not everything can be represented as a sequence or a grid''
 
+#### Progress
+Videos 0/    
+Slides 1/    
+Colabs 0/5  
+
 #### Additional Readings
 Graph Representation Learning Book by Will Hamilton  
 Research papers  
