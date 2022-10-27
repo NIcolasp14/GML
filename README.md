@@ -105,7 +105,7 @@ Generated graphs (Graph-level prediction, Graph generation)
 Subgraphs (Community (subgraph) level)
 
 ## Predictions | These Graph ML tasks lead to high-impact applications!
-///////------Also, check slides for really interesting examples of real-world applications  
+///////------Also, check slides for really interesting examples of real-world applications------/////// 
 
  Node classification: Predict a property of a node   
 ▪ Example: Categorize online users / items   
