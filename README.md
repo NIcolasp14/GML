@@ -9,7 +9,7 @@ By explicitly modeling relationships we achieve better performance! Not everythi
 
 #### Progress
 Videos 0/60    
-Slides 1/    
+Slides 1/19      
 Colabs 0/5  
 
 #### Additional Readings
