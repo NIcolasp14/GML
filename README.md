@@ -1,5 +1,7 @@
 # Stanford_Graph_ML_CS224W
 ---
+---
+---
 By Jure Leskovec  
 https://web.stanford.edu/class/cs224w/   
 https://www.youtube.com/playlist?list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn   
@@ -74,6 +76,8 @@ Both platforms are very helpful for the course project (save your time & provide
  Other network analytics tools: SNAP.PY, NetworkX
 
 # Notes
+---
+---
 ---
 ## Interesting Ideas
 #### Types of graphs in bio
