@@ -56,3 +56,14 @@ Default project (predefined task) or Custom project (open-ended)
 17. Scaling Up GNNs  
 18. Guest lecture: TBD  
 19. GNNs for Science  
+
+## Tools
+ We use PyG (PyTorch Geometric):  
+▪ The ultimate library for Graph Neural Networks  
+
+ We further recommend:  
+▪ GraphGym: Platform for designing Graph Neural Networks.  
+▪ Modularized GNN implementation, simple hyperparameter tuning, flexible user customization  
+▪ Both platforms are very helpful for the course project (save your time & provide advanced GNN functionalities)  
+
+ Other network analytics tools: SNAP.PY, NetworkX
