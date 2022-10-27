@@ -97,7 +97,7 @@ Networks are complex.
  No fixed node ordering or reference point  
  Often dynamic and have multimodal features  
 
-#### Architecture of DL in graphs
+## Architecture of DL in graphs
 Input: Network -> Graph Convolutions on Nodes -> Activation Function -> Regularization (e.g. dropout) -> ...Repeat last three steps... ->  
 -> Predictions:   
 Node labels (Node level)  
@@ -105,7 +105,7 @@ New links (Edge-level)
 Generated graphs (Graph-level prediction, Graph generation)   
 Subgraphs (Community (subgraph) level)
 
-#### Predictions | These Graph ML tasks lead to high-impact applications!
+## Predictions | These Graph ML tasks lead to high-impact applications!
  Node classification: Predict a property of a node   
 ▪ Example: Categorize online users / items   
  Link prediction: Predict whether there are missing links between two nodes  
