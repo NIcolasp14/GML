@@ -1,6 +1,7 @@
 # Stanford_Graph_ML_CS224W
 By Jure Leskovec
 
+## Course Outline
 1. Introduction; Machine Learning for Graphs  ☑️  
 2. Traditional Methods for ML on Graphs  
 3. Node Embeddings  
