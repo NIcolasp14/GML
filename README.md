@@ -11,16 +11,16 @@ Optional readings:
 Papers and pointers to additional literature  
 
 ## Work
-Homework   
-▪ 3 written homeworks    
+▪ Homework   
+3 written homeworks    
 
-Coding assignments    
-▪ 5 coding assignments using Google Colab  
+▪ Coding assignments    
+5 coding assignments using Google Colab  
 
-Course project  
-▪ Proposal, Final report, Poster  
+▪ Course project  
+Proposal, Final report, Poster  
 
-PyG/GraphGym code contribution  
+▪ PyG/GraphGym code contribution  
 
 ## Course Outline
 1. Introduction; Machine Learning for Graphs  ☑️  
