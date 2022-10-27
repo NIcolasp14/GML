@@ -1,11 +1,12 @@
 # Stanford_Graph_ML_CS224W
+---
 By Jure Leskovec  
 https://web.stanford.edu/class/cs224w/   
 https://www.youtube.com/playlist?list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn   
 https://web.stanford.edu/class/cs224w/info.html  
 
-''Complex domains have a rich relational structure, which can be represented as a relational graph
-By explicitly modeling relationships we achieve better performance!''
+''Complex domains have a rich relational structure, which can be represented as a relational graph.   
+By explicitly modeling relationships we achieve better performance! Not everything can be represented as a sequence or a grid''
 
 ## Additional Readings
 Graph Representation Learning Book by Will Hamilton  
@@ -72,7 +73,8 @@ Both platforms are very helpful for the course project (save your time & provide
 
  Other network analytics tools: SNAP.PY, NetworkX
 
-
+# Notes
+---
 ## Interesting Ideas
 #### Types of graphs in bio
 Disease Pathways  
@@ -84,3 +86,9 @@ Regulatory Networks
 A gene regulatory network is a collection of molecular regulators that interact with each other and with other substances in the cell to govern the gene expression levels of mRNA and proteins which, in turn, determine the function of the cell. 
 
 Molecules
+
+#### Networks
+Networks are complex.
+ Arbitrary size and complex topological structure (i.e., no spatial locality like grids)  
+ No fixed node ordering or reference point  
+ Often dynamic and have multimodal features  
