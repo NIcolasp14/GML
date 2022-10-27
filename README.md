@@ -20,7 +20,9 @@ Papers and pointers to additional literature
 ▪ Course project  
 Proposal, Final report, Poster  
 
-▪ PyG/GraphGym code contribution  
+▪ PyG/GraphGym code contribution   
+
+▪ Study past exams
 
 ## Course Outline
 1. Introduction; Machine Learning for Graphs  ☑️  
