@@ -1,7 +1,8 @@
 # Stanford_Graph_ML_CS224W
 By Jure Leskovec  
 https://web.stanford.edu/class/cs224w/   
-https://www.youtube.com/playlist?list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn  
+https://www.youtube.com/playlist?list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn   
+https://web.stanford.edu/class/cs224w/info.html  
 
 ## Additional Readings
 Graph Representation Learning Book by Will Hamilton  
@@ -9,6 +10,16 @@ Research papers
 
 Optional readings:  
 Papers and pointers to additional literature  
+
+## Prerequisites  
+Good background in:  
+▪ Machine Learning  
+▪ Algorithms and graph theory   
+▪ Probability and statistics  
+
+Programming:  
+▪ You should be able to write non-trivial programs (in Python)  
+▪ Familiarity with PyTorch is a plus  
 
 ## Work
 ▪ Homework   
@@ -18,7 +29,9 @@ Papers and pointers to additional literature
 5 coding assignments using Google Colab  
 
 ▪ Course project  
-Proposal, Final report, Poster  
+Proposal, Final report, Poster    
+Default project (predefined task)  
+Custom project (open-ended)  
 
 ▪ PyG/GraphGym code contribution   
 
