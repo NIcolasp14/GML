@@ -105,7 +105,7 @@ New links (Edge-level)
 Generated graphs (Graph-level prediction, Graph generation)   
 Subgraphs (Community (subgraph) level)
 
-#### Predictions 
+#### Predictions | These Graph ML tasks lead to high-impact applications!
  Node classification: Predict a property of a node   
 ▪ Example: Categorize online users / items   
  Link prediction: Predict whether there are missing links between two nodes  
