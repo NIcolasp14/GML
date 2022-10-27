@@ -30,8 +30,7 @@ Programming:
 
 ▪ Course project  
 Proposal, Final report, Poster    
-Default project (predefined task)  
-Custom project (open-ended)  
+Default project (predefined task) or Custom project (open-ended)  
 
 ▪ PyG/GraphGym code contribution   
 
