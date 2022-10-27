@@ -85,15 +85,18 @@ Both platforms are very helpful for the course project (save your time & provide
 
 # Notes
 ## Types of graphs in bio
-Disease Pathways  
+* Disease Pathways  
 Discovering disease pathways, which can be defined as sets of proteins associated with a given disease, is an important problem that has the potential to provide clinically actionable insights for disease diagnosis, prognosis, and treatment.  
 
-Networks of Neurons
+* Networks of Neurons
 
-Regulatory Networks  
+* Regulatory Networks  
 A gene regulatory network is a collection of molecular regulators that interact with each other and with other substances in the cell to govern the gene expression levels of mRNA and proteins which, in turn, determine the function of the cell. 
 
-Molecules
+* Molecules
+
+* Protein Folding Problem -> Spatial Graphs
+Spatial graphs are defined by having nodes with spatial locations, usually given by coordinates in one, two or three dimensions. This small modification to aspatial graphs has profound effects on how these graphs are used and interpreted.
 
 #### Networks
 Networks are complex.  
