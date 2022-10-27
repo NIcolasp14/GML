@@ -4,6 +4,9 @@ https://web.stanford.edu/class/cs224w/
 https://www.youtube.com/playlist?list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn   
 https://web.stanford.edu/class/cs224w/info.html  
 
+''Complex domains have a rich relational structure, which can be represented as a relational graph
+By explicitly modeling relationships we achieve better performance!''
+
 ## Additional Readings
 Graph Representation Learning Book by Will Hamilton  
 Research papers  
@@ -68,3 +71,16 @@ Default project (predefined task) or Custom project (open-ended)
 Both platforms are very helpful for the course project (save your time & provide advanced GNN functionalities)  
 
  Other network analytics tools: SNAP.PY, NetworkX
+
+
+## Interesting Ideas
+#### Types of graphs in bio
+Disease Pathways  
+Discovering disease pathways, which can be defined as sets of proteins associated with a given disease, is an important problem that has the potential to provide clinically actionable insights for disease diagnosis, prognosis, and treatment.  
+
+Networks of Neurons
+
+Regulatory Networks  
+A gene regulatory network is a collection of molecular regulators that interact with each other and with other substances in the cell to govern the gene expression levels of mRNA and proteins which, in turn, determine the function of the cell. 
+
+Molecules
