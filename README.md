@@ -12,6 +12,16 @@ Videos 0/60
 Slides 1/19      
 Colabs 0/5  
 
+#### Ideas
+Drug Repurposing    
+Drug Discovery  
+Drug side effects  
+Disease Pathways  
+Protein Folding  
+Protein Structure  
+Molecule Property Prediction  
+
+
 #### Additional Readings
 Graph Representation Learning Book by Will Hamilton  
 Research papers  
