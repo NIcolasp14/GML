@@ -1,5 +1,26 @@
 # Stanford_Graph_ML_CS224W
-By Jure Leskovec
+By Jure Leskovec  
+https://web.stanford.edu/class/cs224w/   
+https://www.youtube.com/playlist?list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn  
+
+## Additional Readings
+Graph Representation Learning Book by Will Hamilton  
+Research papers  
+
+Optional readings:  
+Papers and pointers to additional literature  
+
+## Work
+Homework   
+▪ 3 written homeworks    
+
+Coding assignments    
+▪ 5 coding assignments using Google Colab  
+
+Course project  
+▪ Proposal, Final report, Poster  
+
+PyG/GraphGym code contribution  
 
 ## Course Outline
 1. Introduction; Machine Learning for Graphs  ☑️  
