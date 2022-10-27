@@ -92,12 +92,13 @@ A gene regulatory network is a collection of molecular regulators that interact 
 Molecules
 
 #### Networks
-Networks are complex.
+Networks are complex.  
  Arbitrary size and complex topological structure (i.e., no spatial locality like grids)  
  No fixed node ordering or reference point  
  Often dynamic and have multimodal features  
 
 #### Architecture of DL in graphs
-Input: Network -> Graph Convolutions on Nodes -> Activation Function -> Regularization (e.g. dropout) -> ...Repeat last three steps... -> Predictions: Node labels, New links, Generated graphs and subgraphs
+Input: Network -> Graph Convolutions on Nodes -> Activation Function -> Regularization (e.g. dropout) -> ...Repeat last three steps... ->  
+Predictions: Node labels (Node level), New links (Edge-level), Generated graphs (Graph-level prediction, Graph generation) and subgraphs (Community (subgraph) level)
 
 
