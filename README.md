@@ -61,6 +61,12 @@ Default project (predefined task) or Custom project (open-ended)
 18. Guest lecture: TBD  
 19. GNNs for Science  
 
+We are going to cover various topics in Machine Learning and Representation Learning for graph structured data:  
+▪ Traditional methods: Graphlets, Graph Kernels  
+▪ Methods for node embeddings: DeepWalk, Node2Vec  
+▪ Graph Neural Networks: GCN, GraphSAGE, GAT, Theory of GNNs  
+▪ Knowledge graphs and reasoning: TransE, BetaE ▪ Deep generative models for graphs: GraphRNN  
+
 #### Tools
  We use PyG (PyTorch Geometric):  
 ▪ The ultimate library for Graph Neural Networks  
@@ -93,3 +99,5 @@ Networks are complex.
 
 #### Architecture of DL in graphs
 Input: Network -> Graph Convolutions on Nodes -> Activation Function -> Regularization (e.g. dropout) -> ...Repeat last three steps... -> Predictions: Node labels, New links, Generated graphs and subgraphs
+
+
