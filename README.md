@@ -99,6 +99,10 @@ Networks are complex.
 
 #### Architecture of DL in graphs
 Input: Network -> Graph Convolutions on Nodes -> Activation Function -> Regularization (e.g. dropout) -> ...Repeat last three steps... ->  
-Predictions: Node labels (Node level), New links (Edge-level), Generated graphs (Graph-level prediction, Graph generation) and subgraphs (Community (subgraph) level)
+Predictions: 
+Node labels (Node level)  
+New links (Edge-level)  
+Generated graphs (Graph-level prediction, Graph generation)   
+Subgraphs (Community (subgraph) level)
 
 
