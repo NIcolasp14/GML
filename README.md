@@ -7,6 +7,7 @@ https://web.stanford.edu/class/cs224w/info.html
 ## Additional Readings
 Graph Representation Learning Book by Will Hamilton  
 Research papers  
+Documentation (PyTorch, PyG, GraphGym, opt: SNAP.PY, NetworkX)
 
 Optional readings:  
 Papers and pointers to additional literature  
@@ -63,7 +64,7 @@ Default project (predefined task) or Custom project (open-ended)
 
  We further recommend:  
 ▪ GraphGym: Platform for designing Graph Neural Networks.  
-▪ Modularized GNN implementation, simple hyperparameter tuning, flexible user customization  
-▪ Both platforms are very helpful for the course project (save your time & provide advanced GNN functionalities)  
+▪ Modularized GNN implementation, simple hyperparameter tuning, flexible user customization   
+Both platforms are very helpful for the course project (save your time & provide advanced GNN functionalities)  
 
  Other network analytics tools: SNAP.PY, NetworkX
