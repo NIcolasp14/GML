@@ -105,4 +105,16 @@ New links (Edge-level)
 Generated graphs (Graph-level prediction, Graph generation)   
 Subgraphs (Community (subgraph) level)
 
+#### Predictions 
+ Node classification: Predict a property of a node  
+▪ Example: Categorize online users / items  
+ Link prediction: Predict whether there are missing links between two nodes
+▪ Example: Knowledge graph completion  
+ Graph classification: Categorize different graphs   
+▪ Example: Molecule property prediction  
+ Clustering: Detect if nodes form a community  
+▪ Example: Social circle detection  
+ Other tasks:  
+▪ Graph generation: Drug discovery  
+▪ Graph evolution: Physical simulation  
 
