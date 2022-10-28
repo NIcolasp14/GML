@@ -8,4 +8,8 @@
 ▪ SVM  
 ▪ Neural network, etc.  
 * Apply the model:  
-▪ Given a new node/link/graph, obtain its features and make a prediction  
+▪ Given a new node/link/graph, obtain its features and make a prediction   
+
+## !
+using effective features over graphs is the key to achieving good model performance
+
