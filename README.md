@@ -13,8 +13,8 @@ Slides 1/19
 Colabs 0/5  
 
 #### Ideas
-**BIO**
-Drug Repurposing    
+***BIO***   
+*Drug Repurposing    
 Drug Discovery  
 Drug side effects  
 Disease Pathways  
@@ -25,6 +25,19 @@ Promising Molecule Prediction (e.g. antiobiotics)
 Networks of Neurons  
 Regulatory Networks  
 
+
+***IDEAS AND IMPLEMENTATION***
+*Node classification: Predict a property of a node
+▪ Example: Categorize online users / items
+Link prediction: Predict whether there are missing links between two nodes
+▪ Example: Knowledge graph completion
+Graph classification: Categorize different graphs
+▪ Example: Molecule property prediction
+Clustering: Detect if nodes form a community
+▪ Example: Social circle detection
+Other tasks:
+▪ Graph generation: Drug discovery
+▪ Graph evolution: Physical simulation
 
 
 
