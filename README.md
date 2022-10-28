@@ -96,6 +96,21 @@ Both platforms are very helpful for the course project (save your time & provide
 
 # Notes
 ## Lec1
+
+## Graph Representations
+Adj Matrix  
+List of Edges  
+Adj list  
+
+## Types of graphs
+spatial  
+biparte (+ projected/folded)  
+sparse (e.g. + large)  
+weighted/unweighted  
+self edges,multigraph  
+connected/disconnected  
+
+
 ## Types of graphs in bio
 * Disease Pathways  
 Discovering disease pathways, which can be defined as sets of proteins associated with a given disease, is an important problem that has the potential to provide clinically actionable insights for disease diagnosis, prognosis, and treatment.  
