@@ -13,7 +13,7 @@ Slides 1/19
 Colabs 0/5  
 
 #### Ideas
-***BIO***  
+**BIO**
 Drug Repurposing    
 Drug Discovery  
 Drug side effects  
@@ -22,6 +22,11 @@ Protein Folding
 Protein Structure  
 Molecule Property Prediction  
 Promising Molecule Prediction (e.g. antiobiotics)
+Networks of Neurons  
+Regulatory Networks  
+
+
+
 
 #### Additional Readings
 Graph Representation Learning Book by Will Hamilton  
