@@ -43,7 +43,7 @@ Different ways to model importance:
 ▪ and many others... 
 
 * Clustering coefficient  
-* 
+
 * Graphlets  
  
 
