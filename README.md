@@ -84,14 +84,14 @@ We are going to cover various topics in Machine Learning and Representation Lear
 ▪ Knowledge graphs and reasoning: TransE, BetaE ▪ Deep generative models for graphs: GraphRNN  
 
 #### Tools
- We use PyG (PyTorch Geometric):  
+We use PyG (PyTorch Geometric):  
 ▪ The ultimate library for Graph Neural Networks  
 
- We further recommend:  
+We further recommend:  
 ▪ GraphGym: Platform for designing Graph Neural Networks.  
 ▪ Modularized GNN implementation, simple hyperparameter tuning, flexible user customization   
 Both platforms are very helpful for the course project (save your time & provide advanced GNN functionalities)  
 
- Other network analytics tools: SNAP.PY, NetworkX
+Other network analytics tools: SNAP.PY, NetworkX
 
 
