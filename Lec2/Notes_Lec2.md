@@ -31,3 +31,10 @@ Goal: Characterize the structure and position of a node in the network:
 ▪ Clustering coefficient  
 ▪ Graphlets  
 
+Node centrality 𝑐 takes the node importance 𝑣  
+in a graph into account  
+ Different ways to model importance:  
+▪ Eigenvector centrality   
+▪ Engienvector centrality    
+▪ Betweenness centrality ▪Closeness centrality    
+▪ and many others...    
