@@ -12,15 +12,15 @@
 * Apply the model:  
 ▪ Given a new node/link/graph, obtain its features and make a prediction   
 
-## Graph Node Featuress
+## Graph Node Features
 Using effective features over graphs is the key to achieving good model performance  
 
 Goal: Make predictions for a set of objects  
 Design choices:  
- Features: d-dimensional vectors  
- Objects: Nodes, edges, sets of nodes,  
+* Features: d-dimensional vectors  
+* Objects: Nodes, edges, sets of nodes,  
 entire graphs  
- Objective function:  
+* Objective function:  
 What task are we aiming to solve?  
 
 ## ML in Graphs
