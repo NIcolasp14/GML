@@ -7,12 +7,12 @@ https://web.stanford.edu/class/cs224w/info.html
 ''Complex domains have a rich relational structure, which can be represented as a relational graph.   
 By explicitly modeling relationships we achieve better performance! Not everything can be represented as a sequence or a grid''
 
-#### Progress
+### Progress
 Videos 0/60    
 Slides 1/19      
 Colabs 0/5  
 
-#### Ideas
+### Ideas
 ***BIO***   
 *Drug Repurposing*      
 *Drug Discovery*      
@@ -41,7 +41,7 @@ Colabs 0/5
 
 
 
-#### Additional Readings
+### Additional Readings
 Graph Representation Learning Book by Will Hamilton  
 Research papers  
 Documentation (PyTorch, PyG, GraphGym, opt: SNAP.PY, NetworkX)
@@ -49,7 +49,7 @@ Documentation (PyTorch, PyG, GraphGym, opt: SNAP.PY, NetworkX)
 Optional readings:  
 Papers and pointers to additional literature  
 
-#### Prerequisites  
+### Prerequisites  
 Good background in:  
 ▪ Machine Learning  
 ▪ Algorithms and graph theory   
@@ -59,7 +59,7 @@ Programming:
 ▪ You should be able to write non-trivial programs (in Python)  
 ▪ Familiarity with PyTorch is a plus  
 
-#### Work
+### Work
 ▪ Homework   
 3 written homeworks    
 
@@ -74,7 +74,7 @@ Default project (predefined task) or Custom project (open-ended)
 
 ▪ Study past exams
 
-#### Course Outline
+### Course Outline
 1. Introduction; Machine Learning for Graphs  ☑️  
 2. Traditional Methods for ML on Graphs  
 3. Node Embeddings  
@@ -101,7 +101,7 @@ We are going to cover various topics in Machine Learning and Representation Lear
 ▪ Graph Neural Networks: GCN, GraphSAGE, GAT, Theory of GNNs  
 ▪ Knowledge graphs and reasoning: TransE, BetaE ▪ Deep generative models for graphs: GraphRNN  
 
-#### Tools
+### Tools
 We use PyG (PyTorch Geometric):  
 ▪ The ultimate library for Graph Neural Networks  
 
