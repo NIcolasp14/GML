@@ -22,7 +22,7 @@ entire graphs
 ▪ What task are we aiming to solve?  
 
 ## ML in Graphs
-Node-level prediction   
+#### Node-level prediction   
 Given: G(V, E)  
 Learn a function: f:V->R
 
