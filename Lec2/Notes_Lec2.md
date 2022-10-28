@@ -1,5 +1,4 @@
 # Lec2
-
 ## Traditional ML Pipeline
 * Design features for nodes/links/graphs 
 * Obtain features for all training data
@@ -22,7 +21,13 @@ entire graphs
 ▪ What task are we aiming to solve?  
 
 ## ML in Graphs
-#### Node-level prediction   
+### Node-level prediction   
 Given: G(V, E)  
 Learn a function: f:V->R
+
+Goal: Characterize the structure and position of a node in the network:  
+▪ Node degree  
+▪ Node centrality  https://en.wikipedia.org/wiki/Centrality  
+▪ Clustering coefficient  
+▪ Graphlets  
 
