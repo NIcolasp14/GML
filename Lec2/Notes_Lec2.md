@@ -26,15 +26,22 @@ Given: G(V, E)
 Learn a function: f:V->R
 
 Goal: Characterize the structure and position of a node in the network:  
-▪ Node degree  
-▪ Node centrality  https://en.wikipedia.org/wiki/Centrality  
-▪ Clustering coefficient  
-▪ Graphlets  
+* Node degree   
+The degree 𝑘𝑣 of node 𝑣 is the number of edges (neighboring nodes) the node has.  
+Treats all neighboring nodes equally. 
 
-Node centrality 𝑐 takes the node importance 𝑣  
-in a graph into account  
+* Node centrality  https://en.wikipedia.org/wiki/Centrality   
+Node centrality 𝑐 takes the node importance 𝑣 in a graph into account.    
 Different ways to model importance:  
 ▪ Eigenvector centrality   
 ▪ Engienvector centrality    
-▪ Betweenness centrality ▪Closeness centrality    
-▪ and many others...    
+▪ Betweenness centrality   
+▪ Closeness centrality      
+▪ and many others... 
+
+* Clustering coefficient  
+* 
+* Graphlets  
+ 
+
+   
