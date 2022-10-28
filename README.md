@@ -20,7 +20,7 @@ Disease Pathways
 Protein Folding  
 Protein Structure  
 Molecule Property Prediction  
-
+Promising Molecule Prediction (e.g. antiobiotics)
 
 #### Additional Readings
 Graph Representation Learning Book by Will Hamilton  
