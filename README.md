@@ -26,7 +26,7 @@ Colabs 0/5
 *Regulatory Networks*   
 
 
-***IDEAS AND IMPLEMENTATION***
+***IDEAS AND IMPLEMENTATION***  
 *Node classification: Predict a property of a node*  
 ▪ *Example: Categorize online users / items*  
 *Link prediction: Predict whether there are missing links between two nodes*  
