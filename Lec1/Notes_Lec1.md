@@ -1,6 +1,6 @@
 # Lec1
 
-## Math topics covered
+## Graph Concepts
 degree of a node  
 avg node degree  
 in degree, out degree, total degree (source, sink)  
