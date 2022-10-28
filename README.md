@@ -123,6 +123,14 @@ New links (Edge-level)
 Generated graphs (Graph-level prediction, Graph generation)   
 Subgraphs (Community (subgraph) level)
 
+Nodes and Edge Attributes  
+Possible options:    
+▪ Weight (e.g., frequency of communication)  
+▪ Ranking (best friend, second best friend...)  
+▪ Type (friend, relative, co-worker)  
+▪ Sign: Friend vs. Foe, Trust vs. Distrust  
+▪ Properties depending on the structure of the rest of the graph: Number of common friends  
+
 ## Predictions | These Graph ML tasks lead to high-impact applications!
 ///////------Also, check slides for really interesting examples of real-world applications------/////// 
 
