@@ -12,6 +12,9 @@ Videos 0/60
 Slides 1/19      
 Colabs 0/5  
 
+## !
+using effective features over graphs is the key to achieving good model performance
+
 ### Ideas
 ***BIO***   
 *Drug Repurposing*      
