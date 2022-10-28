@@ -95,6 +95,7 @@ Both platforms are very helpful for the course project (save your time & provide
  Other network analytics tools: SNAP.PY, NetworkX
 
 # Notes
+## Lec1
 ## Types of graphs in bio
 * Disease Pathways  
 Discovering disease pathways, which can be defined as sets of proteins associated with a given disease, is an important problem that has the potential to provide clinically actionable insights for disease diagnosis, prognosis, and treatment.  
@@ -146,3 +147,5 @@ Possible options:
 ▪ Graph generation: Drug discovery   
 ▪ Graph evolution: Physical simulation   
 
+
+## Lec2
