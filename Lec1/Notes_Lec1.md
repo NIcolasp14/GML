@@ -1,4 +1,13 @@
 # Lec1
+## Summary
+ Machine learning with Graphs   
+▪ Applications and use cases  
+ Different types of tasks:  
+▪ Node level  
+▪ Edge level  
+▪ Graph level  
+ Choice of a graph representation:   
+▪ Directed, undirected, bipartite, weighted, adjacency matrix  
 
 ## Graph Concepts
 degree of a node  
