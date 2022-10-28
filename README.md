@@ -123,7 +123,7 @@ New links (Edge-level)
 Generated graphs (Graph-level prediction, Graph generation)   
 Subgraphs (Community (subgraph) level)
 
-Nodes and Edge Attributes  
+**Nodes and Edge Attributes**  
 Possible options:    
 ▪ Weight (e.g., frequency of communication)  
 ▪ Ranking (best friend, second best friend...)  
