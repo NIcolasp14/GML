@@ -103,6 +103,7 @@ List of Edges
 Adj list  
 
 ## Types of graphs
+Directed/Undirected  
 spatial  
 biparte (+ projected/folded)  
 sparse (e.g. + large)  
