@@ -8,7 +8,7 @@ https://web.stanford.edu/class/cs224w/info.html
 By explicitly modeling relationships we achieve better performance! Not everything can be represented as a sequence or a grid''
 
 ### Progress
-Videos 1/60    
+Videos 2/60    
 Slides 1/19      
 Colabs 0/5  
 
@@ -23,7 +23,7 @@ using effective features over graphs is the key to achieving good model performa
 *Disease Pathways*   
 *Protein Folding*   
 *Protein Structure*   
-*Molecule Property Prediction*   
+*Molecule Property Prediction, Formation/Optimization Prediction*   
 *Promising Molecule Prediction (e.g. antiobiotics)* 
 *Networks of Neurons*   
 *Regulatory Networks*   
