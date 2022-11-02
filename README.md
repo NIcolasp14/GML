@@ -8,8 +8,8 @@ https://web.stanford.edu/class/cs224w/info.html
 By explicitly modeling relationships we achieve better performance! Not everything can be represented as a sequence or a grid''
 
 ### Progress
-Videos 2/60    
-Slides 1/19      
+Videos 6/60    
+Slides 2/19      
 Colabs 0/5  
 
 ## !
