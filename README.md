@@ -1,5 +1,4 @@
-# Stanford_Graph_ML_CS224W
-By Jure Leskovec  
+
 https://web.stanford.edu/class/cs224w/   
 https://www.youtube.com/playlist?list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn   
 https://web.stanford.edu/class/cs224w/info.html  
